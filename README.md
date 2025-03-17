@@ -24,8 +24,6 @@ Welcome to my GitHub profile! I'm an undergraduate Computer Science student at t
 - LinkedIn: [Akila kushantha Fonseka](https://www.linkedin.com/in/akilakushanthafonseka/)
 - X: [@Akila Kushantha](https://x.com/AkilaKushantha)
 
-## 😄 Pronouns
-He/Him
 
 ## ⚡ Fun Fact
 I'm also a guitar player and enjoy playing acoustic guitar! 🎸
